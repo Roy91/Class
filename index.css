@@ -1,0 +1,194 @@
+html, body{
+  margin: auto;
+}
+
+.grid{
+  font-family: 'Roboto', sans-serif;
+  width: 99.5%;
+  height: 99%;
+  position: absolute;
+  background-image:radial-gradient(#33FFF9, #5233FF);
+  /*border: solid 2px;
+  border-color: blue;*/
+
+}
+
+.row{
+  position: absolute;
+  width: 55%;
+  height: 80%;
+  border: solid 2px;
+  border-color: #33F6FF;
+  left: 22.5%;
+  top: 10%;
+
+}
+
+.grp-carre{
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  border: solid 2px;
+  border-color: #3633FF;
+}
+
+.cr1{
+  left: 5%;
+  top: 5%;
+}
+
+.cr2{
+  left: 25%;
+  top: 25%;
+}
+
+.cr3{
+  left: 65%;
+  top: 65%;
+}
+
+.cr4{
+  left: 85%;
+  top: 85%;
+}
+
+.grp-cercle{
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  border: solid 2px;
+  border-color: #33FF93;
+  border-radius: 100%;
+}
+
+.cc1{
+  left: 25%;
+  top: 5%;
+}
+
+.cc2{
+  left: 45%;
+  top: 5%;
+}
+
+.cc3{
+  left: 65%;
+  top: 5%;
+}
+
+.cc4{
+  left: 85%;
+  top: 5%;
+}
+
+.cc5{
+  left: 5%;
+  top: 25%;
+}
+
+.cc6{
+  left: 45%;
+  top: 25%;
+}
+
+.cc7{
+  left: 65%;
+  top: 25%;
+}
+
+.cc8{
+  left: 85%;
+  top: 25%;
+}
+
+.cc9{
+  left: 5%;
+  top: 45%;
+}
+
+.cc10{
+  left: 25%;
+  top: 45%;
+}
+
+.cc11{
+  left: 65%;
+  top: 45%;
+}
+
+.cc12{
+  left: 85%;
+  top: 45%;
+}
+
+.cc13{
+  left: 5%;
+  top: 65%;
+}
+
+.cc14{
+  left: 25%;
+  top: 65%;
+}
+
+.cc15{
+  left: 45%;
+  top: 65%;
+}
+
+.cc16{
+  left: 85%;
+  top: 65%;
+}
+
+.cc17{
+  left: 5%;
+  top: 85%;
+}
+
+.cc18{
+  left: 25%;
+  top: 85%;
+}
+
+.cc19{
+  left: 45%;
+  top: 85%;
+}
+
+.cc20{
+  left: 65%;
+  top: 85%;
+}
+
+.losange{
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  border: solid 2px;
+  border-color: #FFFC33;
+  left: 45%;
+  top: 45%;
+  -webkit-transform: rotate(45deg);
+}
+
+.button{
+    width: 500px;
+    height: 80px;
+    text-align: center;
+    margin: auto;
+
+}
+
+button{
+  margin-top: 3%;
+  width: 20%;
+  height: 50%;
+  background-image:radial-gradient(white, #BE4DFF);
+  border-radius: 50%;
+}
+
+.blue{
+  background-color: #FF3364;
+  opacity: 0.4;
+}
